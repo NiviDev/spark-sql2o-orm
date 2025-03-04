@@ -1,0 +1,15 @@
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/netflix/Netflix.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/pelicula/Pelicula.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/user/UserDAO.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/spark/template/velocity/VelocityTemplateEngine.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/director/DirectorDAO.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/director/DirectorControlador.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/pelicula/PeliculaDAO.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/director/Director.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/util/Path.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/pelicula/PeliculaControlador.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/actor/ActorControlador.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/actor/Actor.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/actor/ActorDAO.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/com/nivi/user/UserControlador.java
+/home/nicov/NetBeansProjects/SQL2o/ej3/Netflix/src/main/java/util/Sql2oDAO.java
